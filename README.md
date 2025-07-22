@@ -23,7 +23,7 @@ This project helps you manage your time using the Pomodoro technique, improving 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/ignite-timer.git
+git clone https://github.com/andrewcarletti/ignite-timer.git
 cd ignite-timer
 npm install
 npm run dev
